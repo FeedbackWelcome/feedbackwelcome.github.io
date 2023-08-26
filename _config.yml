@@ -22,7 +22,7 @@ markdown: kramdown
 analytics: UA-83979020-1
 
 # Comments
-disqus-shortname: owo-whats-this
+disqus-shortname: feedbackwelcome
 
 #optimization
 #compress.html
