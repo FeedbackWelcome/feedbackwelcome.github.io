@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rancid Fractalised Nectar - generative modular eurorack patch
+title: Rancid Fractalised Nectar
 ---
 
 All hail the Error Instruments Tele Blender and Xaoc Devises Sofia on this lazy Saturday winter morning.
