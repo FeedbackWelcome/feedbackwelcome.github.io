@@ -5,7 +5,7 @@ title: Rancid Fractalised Nectar
 
 All hail the Error Instruments Tele Blender and Xaoc Devises Sofia on this lazy Saturday winter morning.
 
-<div class="Video"><iframe width="560" height="315" src="https://www.youtube.com/embed/kDTxgpAxTrM?si=zecDJJfkJ_rVsQ8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="Video"><iframe width="742" height="417" src="https://www.youtube.com/embed/kDTxgpAxTrM?si=zecDJJfkJ_rVsQ8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## PATCH NOTES
 
