@@ -51,4 +51,4 @@ This patch is a very inefficient use of modules/spaghetti. As I'm patching I thi
 
 Also, I failed to set the framerate when starting the video project, so frames get lost and we lose some of the blinky-blinks.
 
-See the video - [YouTube]([https://jekyll-themes.com](https://www.youtube.com/watch?v=kDTxgpAxTrM)https://www.youtube.com/watch?v=kDTxgpAxTrM)
+See the video - [YouTube](https://www.youtube.com/watch?v=kDTxgpAxTrM)
