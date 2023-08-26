@@ -7,6 +7,8 @@ All hail the Error Instruments Tele Blender and Xaoc Devises Sofia on this lazy 
 
 <div class="Video"><iframe width="742" height="417" src="https://www.youtube.com/embed/kDTxgpAxTrM?si=zecDJJfkJ_rVsQ8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
+Download the [FLAC](https://forums.stratagus.com/audio/Rancid%20Fractalised%20Nectar.flac)
+
 ## PATCH NOTES
 
 Driver = ALM PAMs New - 2x channels used for triggers, 4x LFOs, 2x random 100% PW; like S&H.
@@ -54,3 +56,5 @@ This patch is a very inefficient use of modules/spaghetti. As I'm patching I thi
 Also, I failed to set the framerate when starting the video project, so frames get lost and we lose some of the blinky-blinks.
 
 See the video - [YouTube](https://www.youtube.com/watch?v=kDTxgpAxTrM)
+
+Download the flac - [Download](https://forums.stratagus.com/audio/Rancid%20Fractalised%20Nectar.flac)
