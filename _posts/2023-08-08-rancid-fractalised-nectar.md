@@ -5,6 +5,8 @@ title: Rancid Fractalised Nectar
 
 All hail the Error Instruments Tele Blender and Xaoc Devises Sofia on this lazy Saturday winter morning.
 
+<div class="Video"><iframe width="560" height="315" src="https://www.youtube.com/embed/kDTxgpAxTrM?si=zecDJJfkJ_rVsQ8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ## PATCH NOTES
 
 Driver = ALM PAMs New - 2x channels used for triggers, 4x LFOs, 2x random 100% PW; like S&H.
